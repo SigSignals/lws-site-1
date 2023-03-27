@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-target.svg",
+        "title": "Research",
+        "desc": "We provide research to support historical claims, policy development, governance, and litigation.",
+        "pageLink": "Learn More",
+        "link": "reasearch"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-basic-picture-multiple.svg",
+        "title": "Governance",
+        "desc": "We helps nations and organizations strengthen their entire governance eco-system.",
+        "pageLink": "Learn More",
+        "link": "governance"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-basic-picture.svg",
+        "title": "Training",
+        "desc": "We can bring you experts for training on legal, policy, and governance issues.",
+        "pageLink": "Learn More",
+        "link": "training"
+    }
+    
+]

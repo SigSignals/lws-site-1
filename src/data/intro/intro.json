@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Research",
+        "desc": "Little Southwest provides research to support historical claims, policy development, governance, and litigation.",
+        "backgroundImage": "/images/hero-image/hero-2.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Governance",
+        "desc": "Little Southwest helps nations strengthen their entire governance eco-system.",
+        "backgroundImage": "/images/hero-image/hero-1.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Training",
+        "desc": "Little Southwest can bring you experts for training on legal, policy, and governance issues.",
+        "backgroundImage": "/images/hero-image/hero-3.jpg"
+    }
+]

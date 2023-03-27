@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "image": "images/team/team-1.jpg",
+        "name": "Dellica King",
+        "designation": "President"
+    },
+    {
+        "id": 2,
+        "image": "images/team/team-2.jpg",
+        "name": "Robert Hamilton",
+        "designation": "Consultant"
+    }
+]
